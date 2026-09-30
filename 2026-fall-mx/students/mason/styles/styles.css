@@ -1,10 +1,15 @@
 body {
-    background-color: light-dark(aqua, hotpink);
-    color:blue;
+    background-color: light-dark(lightblue, hotpink);
+    color:black;
 }
 
 footer {
-    background-color:black;
-    color:aliceblue
+    background-color:gray;
+    color:black
 }
 
+.center{
+    width: 960px;
+    margin-left:auto;
+    margin-right:auto;
+}
